@@ -15,6 +15,6 @@
 07. onion.live
 08. tor.link
 09. darkwebdaily.live
-10. 10. tor.li
+10. tor.li
 
 ---
