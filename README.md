@@ -14,3 +14,5 @@
 6. onionland.io
 7. onion.live
 8. tor.link
+9. darkwebdaily.live
+10. 
