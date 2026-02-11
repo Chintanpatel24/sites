@@ -21,3 +21,4 @@
 ---
 
 " everything is provided for educational purposes only "
+"It's not promoting any illegal activities."
