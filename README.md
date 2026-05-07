@@ -18,8 +18,9 @@
 11. onionlinks.com
 12. torhiddenwiki.org
 13. thehiddenwiki.one
-14. Robin ( perplexity of darkweb )
-    > which requires technical knowledge and also your LLM API 
+14. [Robin](https://github.com/apurvsinghgautam/robin) (perplexity of darkweb)
+    > which requires technical knowledge and also your LLM API
+15. [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
 ---
 
 " everything is provided for educational purposes only " 
